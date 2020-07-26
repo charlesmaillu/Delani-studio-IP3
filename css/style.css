@@ -1,14 +1,5 @@
-html,
-body,
-header,
-#intro {
-    height: 100%;
+#mouse-click{
+    padding-top : 22px;
+    margin-top: 10%;
 }
-
-#intro {
-    background: url("/home/charles/Documents/Delani_studio/images/assets/backgrounds/c_image.jpg")no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+ 
