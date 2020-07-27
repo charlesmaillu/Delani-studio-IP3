@@ -19,7 +19,7 @@ This is a fictional studio build for practice  of week three javavascript, jquer
 * Create a Pull Request
 ## the sample website includes
 **layout**
-/home/charles/Documents/Delani_studio/images/assets/ Delani Studio.jpg
+* <img src="./images/assets/ Delani Studio.jpg" alt="" srcset="">
 
 **Design**
 
