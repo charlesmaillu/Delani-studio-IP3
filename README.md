@@ -59,7 +59,7 @@ To fix a bug or enhance an existing module, follow these steps:
 ### Setup
 fork this repo to your desktop and run 
 ### License
-You can check out the full license <a href="https://github.com/charlesmaillu/Akan-Naming-/blob/master/licen">here</a> 
+You can check out the full license <a href="https://github.com/charlesmaillu/Delani-studio-IP3/blob/master/license">here</a> 
 
 This project is licensed under the terms of the MIT license.
  **Charles Mailu**                  
