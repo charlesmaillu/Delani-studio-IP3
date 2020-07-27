@@ -10,9 +10,25 @@ html, body{
 #background_1{
   width: 100%;
   height: 100%;
+  justify-content: center;
+}
+form{
+  height: 100%;
+  width: 100%;
+  
 }
 
-
+#twitter:hover, 
+#dribble:hover, 
+#facebook:hover,
+#g_plus:hover,
+#skype:hover,
+#stumble_upon:hover,
+#behance:hover,
+#pinterest:hover, 
+#flickr:hover{
+  color: #bb1919;
+}
 
 #mouse-click{
   padding-top : 22px;
@@ -136,7 +152,7 @@ footer p{
   text-align: center;
   font-size: 30px;
   padding-top: 50%;
-  font-family: Dancing;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
