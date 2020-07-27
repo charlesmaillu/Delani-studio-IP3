@@ -18,8 +18,8 @@ This is a fictional studio build for practice  of week three javavascript, jquer
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
 ## the sample website includes
-**image**
-https://moringaschool.instructure.com/courses/258/files/36794/download?wrap=1
+**layout**
+/home/charles/Documents/Delani_studio/images/assets/ Delani Studio.jpg
 
 **Design**
 
