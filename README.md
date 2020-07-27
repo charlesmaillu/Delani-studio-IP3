@@ -18,13 +18,14 @@ This is a fictional studio build for practice  of week three javavascript, jquer
 * Push to the branch (git push origin improve-feature)
 * Create a Pull Request
 ## the sample website includes
+**image**
+https://moringaschool.instructure.com/courses/258/files/36794/download?wrap=1
 
 **Design**
 
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 
-https://moringaschool.instructure.com/courses/258/files/36794/download?wrap=1
 
 **Development**
 
