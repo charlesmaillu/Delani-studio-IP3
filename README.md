@@ -24,6 +24,8 @@ This is a fictional studio build for practice  of week three javavascript, jquer
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
 Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.
 
+https://moringaschool.instructure.com/courses/258/files/36794/download?wrap=1
+
 **Development**
 
 All engineers are fluent in the latest enterprise, mobile and web development technologies.
